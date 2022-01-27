@@ -1,0 +1,4 @@
+Javascript Runtime
+------------------
+--Javascript runtime refers to where your javascript code is executed when you run it. That said, javascript can be executed on google chrome, in which case your javascript runtime is v8.
+--Javascript codes can also be executed in other code editors which are there in market like VS Code, etc.
